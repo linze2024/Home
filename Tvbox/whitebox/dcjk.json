@@ -1,0 +1,30 @@
+//20260915
+{
+	"urls": [
+		{
+			"name": "🇨🇳aikan加速",
+			"url": "https://ghproxy.net/raw.githubusercontent.com/linze2024/asd/main/home/livestv/fm/aikan/aikan.json"
+		},
+		{
+			"name": "🇨🇳aikan原址",
+			"url": "https://raw.githubusercontent.com/linze2024/asd/main/home/livestv/fm/aikan/aikan.json"
+		},
+		{
+			"name": "🌈heihe",
+			"url": "https://d.kstore.dev/download/9074/tvboxlive/heihe.txt"
+		},
+		{
+			"name": "💦erxiao",
+			"url": "https://d.kstore.dev/download/9074/tvboxqq/fmjk/erxiao/erxiao.txt"
+		},
+		{
+			"name": "♻️home在线",
+			"url": "https://d.kstore.dev/download/9074/tvboxlive/oldhomelive.txt"
+		},
+		{
+			"name": "机缘巧盒-主线",
+			"url": "https://gitee.com/li-shengkai/qh/raw/master/ys.json"
+		}
+		
+	]
+}
