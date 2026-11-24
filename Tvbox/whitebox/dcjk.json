@@ -1,6 +1,10 @@
 //20260915
 {
 	"urls": [
+{
+			"name": "🇨🇳aikan1加速",
+			"url": "https://ghproxy.net/https://raw.githubusercontent.com/linze2024/asd/refs/heads/main/home/livestv/fm/aikan1/api.json"
+		},
 		{
 			"name": "🇨🇳aikan加速",
 			"url": "https://ghproxy.net/raw.githubusercontent.com/linze2024/asd/main/home/livestv/fm/aikan/aikan.json"
